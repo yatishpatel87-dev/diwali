@@ -1,0 +1,6 @@
+{
+  "name": "દિવાળી મહોત્સવ - Diwali Festive Game Hub",
+  "description": "દિવાળી પર્વ માટે અનોખી અને રોમાંચક રમતો: દીવા પ્રગટાવવાની રમત, રંગોળી મેકર, ઇકો-ફ્રેન્ડલી ફટાકડા, મિઠાઈ કેચર અને લક્ષ્મી પૂજા.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
